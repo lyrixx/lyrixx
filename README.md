@@ -12,4 +12,5 @@ But I'm doing some open source:
 * I maintain [gitonomy/gitlib](https://github.com/gitonomy/gitlib)
 * and I contribute to many other projects
 
-<iframe src="https://github.com/sponsors/lyrixx/card" title="Sponsor lyrixx" height="225" width="600" style="border: 0;"></iframe>
+If you want and can, you can [**sponsor me**](https://github.com/sponsors/lyrixx) to continue to work
+on open source projets

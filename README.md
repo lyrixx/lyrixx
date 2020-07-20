@@ -9,9 +9,9 @@
 * 🇫🇷 I'm French, But I can speak 🇬🇧
 * 👨 he/him
 
-And I also do some open source:
+#### And I also do some open source:
 
-* 🎵 I'm [Symfony](https://github.com/symfony/symfony) Core Team Member
+* 🎵 I'm **[Symfony](https://github.com/symfony/symfony) Core Team Member**
 * 🐟 I maintain [jolicode/docker-starter](https://github.com/jolicode/docker-starter)
 * ⏱ I maintain [beberlei/metrics](https://github.com/beberlei/metrics)
 * ☁ I maintain [FriendsOfPHP/consul-php-sdk](https://github.com/FriendsOfPHP/consul-php-sdk)

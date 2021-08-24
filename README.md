@@ -3,7 +3,7 @@
 * 🏢 I'm working [**@jolicode**](http://github.com/jolicode) as a web developer
 * 🔭 I use PHP (Symfony), Golang, and JavaScript (React)
 * 🛠 I like working with PostgreSQL, RabbitMQ, Redis, Elasticsearch
-* ⌨ I do OPS with Docker, Ansible and I used to consul, packer, and chef
+* ⌨ I do OPS with Docker, Ansible, Terraform and I used to consul, packer, and chef
 * 🎞 I give [some talks](https://speakerdeck.com/lyrixx)
 * ✍ I write [blog posts](https://jolicode.com/equipe/gregoire-pineau)
 * 🇫🇷 I'm French, But I can speak 🇬🇧

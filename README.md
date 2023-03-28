@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 * 🏢 I work [**@jolicode**](http://github.com/jolicode) as a developer / ops
+* 🏢 I work [**@redirectionio**](http://github.com/redirectionio) as a Tech Lead // Architect
 * 🔭 I use PHP (Symfony), Golang, Rust, and JavaScript/TypeScript (React)
 * 🛠 I like working with PostgreSQL, RabbitMQ, Redis, Elasticsearch
-* ⌨ I do OPS with Docker, Ansible, Terraform and I used to use consul, packer, and chef
+* ⌨ I do OPS with Docker, Ansible, Terraform and I used to use Consul, Packer, and Chef
 * 🎞 I give [some talks](https://speakerdeck.com/lyrixx)
 * ✍ I write [blog posts](https://jolicode.com/equipe/gregoire-pineau)
 * 🇫🇷 I'm French, But I can speak 🇬🇧

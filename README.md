@@ -6,7 +6,7 @@
 * 🛠 I like working with PostgreSQL, RabbitMQ, Redis, Clickhouse, Elasticsearch
 * ⌨ I do OPS with Docker, Ansible, Terraform and I used to use Consul, Packer, and Chef
 * 🎞 I give [some talks](https://speakerdeck.com/lyrixx)
-* ✍ I write [blog posts](https://jolicode.com/equipe/gregoire-pineau)
+* ✍ I write on [my blog](https://blog.lyrixx.info/) and on the [JoliCode blog](https://jolicode.com/equipe/gregoire-pineau)
 * 🇫🇷 I'm French, But I can speak 🇬🇧
 * 👨 he/him
 
